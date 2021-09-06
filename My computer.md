@@ -13,4 +13,4 @@
 
 *Description of performance based on hardware: I have not had this computer for very long so I can't really speak for its performance and harware, howver is is noticeably faster than my old computer whih could be due to this computer having more RAM and a more powerful CPU*
 
-https://drive.google.com/file/d/1gnaBCxYho9SU-SNokHuE9pZ8ZOoitNds/view
+https://drive.google.com/file/d/1gnaBCxYho9SU-SNokHuE9pZ8ZOoitNds/view 
